@@ -1,0 +1,12 @@
+server:
+  port: 7060
+sms-provider:
+  clientId: eskiz
+  clientSecret: secretKey
+  loginSms: 'Sizning app.shop.uz kirish parolingiz :%s'
+
+orderStatuses:
+  - PENDING
+  - CONFIRMED
+  - DELIVERED
+  - CANCELED
