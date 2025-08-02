@@ -1,5 +1,5 @@
 server:
-  port: 9090
+  port: 9292
 sms-provider:
   clientId: eskiz
   clientSecret: secretKey
