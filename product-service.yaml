@@ -4,3 +4,10 @@ sms-provider:
   clientId: eskiz
   clientSecret: secretKey
   loginSms: 'Sizning app.shop.uz kirish parolingiz :%s'
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/product_db
+    username: postgres
+    password: 1305
+  
+  
