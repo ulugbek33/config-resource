@@ -1,0 +1,6 @@
+server:
+  port: 9090
+sms-provider:
+  clientId: eskiz
+  clientSecret: secretKey
+  loginSms: 'Sizning app.shop.uz kirish parolingiz :%s'
